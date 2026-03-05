@@ -1,9 +1,3 @@
-gushwork-frontend-assignment
- ├── index.html
- ├── styles.css
- ├── script.js
- └── assets/# Gushwork Frontend Assignment
-
 This project is a responsive web page implementation based on the Figma design provided by Gushwork as part of the Web Developer assignment.
 
 ## Technologies Used
@@ -33,14 +27,6 @@ The page is fully responsive and works across:
 - Semantic HTML structure
 - Clean and organized CSS
 - Vanilla JavaScript interactions
-
-## Project Structure
-gushwork-frontend-assignment
-│
-├── index.html
-├── styles.css
-├── script.js
-└── assets/
 
 ## How to Run
 1. Clone the repository
